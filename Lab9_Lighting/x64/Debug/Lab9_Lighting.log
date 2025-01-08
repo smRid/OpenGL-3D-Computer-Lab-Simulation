@@ -1,0 +1,25 @@
+﻿  main.cpp
+D:\Softwares 4\Project Template\sphere.h(97,29): warning C4305: 'argument': truncation from 'double' to 'T'
+D:\Softwares 4\Project Template\sphere.h(97,29): warning C4305:         with
+D:\Softwares 4\Project Template\sphere.h(97,29): warning C4305:         [
+D:\Softwares 4\Project Template\sphere.h(97,29): warning C4305:             T=float
+D:\Softwares 4\Project Template\sphere.h(97,29): warning C4305:         ]
+  (compiling source file 'main.cpp')
+  
+D:\Softwares 4\Project Template\sphere.h(98,30): warning C4305: 'argument': truncation from 'double' to 'T'
+D:\Softwares 4\Project Template\sphere.h(98,30): warning C4305:         with
+D:\Softwares 4\Project Template\sphere.h(98,30): warning C4305:         [
+D:\Softwares 4\Project Template\sphere.h(98,30): warning C4305:             T=float
+D:\Softwares 4\Project Template\sphere.h(98,30): warning C4305:         ]
+  (compiling source file 'main.cpp')
+  
+D:\Softwares 4\Project Template\sphere.h(184,26): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+D:\Softwares 4\Project Template\sphere.h(185,25): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+D:\Softwares 4\Project Template\sphere.h(187,26): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+  Lab9_Lighting.vcxproj -> D:\Softwares 4\Project Template\x64\Debug\Lab9_Lighting.exe
